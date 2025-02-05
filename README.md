@@ -4,7 +4,7 @@ This repository contains the implementation of a **robot model** using **URDF (U
 
 ## **Project Overview**  
 This project focuses on building a realistic robot model using ROS2, which can be visualized in RViz and later integrated into robotic applications, including control, motion planning, and sensor data visualization.
-![Robot Model](images/robot_model.png)
+![Robot Model](images/RobotModel.png)
 ## **Technologies Used**
 - **ROS2** (Robot Operating System 2)
 - **URDF** (Unified Robot Description Format)
