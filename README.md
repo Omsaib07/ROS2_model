@@ -38,7 +38,7 @@ This project focuses on building a realistic robot model using ROS2, which can b
   	source install/setup.bash
 5. **Launch the Robot Model in RViz
      After building the workspace, launch the robot model:**
-   ros2 launch my_robot_description display_urdf.launch.py
+    ros2 launch my_robot_description display_urdf.launch.py
 
 **Visualize the Robot in RViz**
 **Open RViz to visualize the robot model and move its joints using the sliders in the Robot Model display. Make sure to have the proper TF frames set up for the model.**
